@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This project analyzes habitat fragmentation patterns in **Rajkot** and **Ahmedabad** using remote sensing techniques. By calculating the Normalized Difference Vegetation Index (NDVI) from Sentinel-2 satellite imagery over a 3-year period (2020-2023), we identify and quantify the impact of urbanization on green spaces and ecosystem connectivity.
 
@@ -24,7 +24,7 @@ This project analyzes habitat fragmentation patterns in **Rajkot** and **Ahmedab
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Monitor vegetation health and distribution in urban environments
 2. Calculate NDVI to assess green cover changes
@@ -34,7 +34,7 @@ This project analyzes habitat fragmentation patterns in **Rajkot** and **Ahmedab
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Category | Tools |
 |----------|-------|
@@ -80,7 +80,7 @@ graph LR
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Habitate-Fragmentation/
@@ -104,7 +104,7 @@ Habitate-Fragmentation/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -143,7 +143,7 @@ jupyter notebook habitat_fragmentation_analysis.ipynb
 
 ---
 
-## 📈 Results
+## Results
 
 ### Sample NDVI Maps
 
@@ -160,7 +160,7 @@ jupyter notebook habitat_fragmentation_analysis.ipynb
 
 ---
 
-## 🎓 Use Cases
+## Use Cases
 
 - **Urban Planning**: Identify areas for green corridor development
 - **Environmental Monitoring**: Track vegetation loss over time
@@ -170,7 +170,7 @@ jupyter notebook habitat_fragmentation_analysis.ipynb
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Temporal trend analysis (2015-2025)
 - [ ] Landscape fragmentation metrics (patch density, connectivity)
@@ -189,23 +189,23 @@ jupyter notebook habitat_fragmentation_analysis.ipynb
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Manish Kumar Choudhary**
 
-- 📧 Email: manishkumarchoudhary122450@marwadiuniversity.ac.in
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [Your GitHub Profile]
+-  Email: manishkumarchoudhary122450@marwadiuniversity.ac.in
+-  LinkedIn: [Your LinkedIn Profile]
+-  GitHub: [Your GitHub Profile]
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Google Earth Engine** for providing planetary-scale geospatial analysis platform
 - **European Space Agency (ESA)** for Sentinel-2 satellite data
@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact
+## Contact
 
 For questions, suggestions, or collaboration opportunities:
 - Open an [Issue](https://github.com/yourusername/habitat-fragmentation/issues)
