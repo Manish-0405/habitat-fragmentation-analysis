@@ -216,8 +216,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions, suggestions, or collaboration opportunities:
-- Open an [Issue](https://github.com/Manish-045/habitat-fragmentation/issues)
-- Submit a [Pull Request](https://github.com/Manish-045/habitat-fragmentation/pulls)
+- Open an [Issues](https://github.com/Manish-0405/habitat-fragmentation-analysis/issues)
+- Submit a [Pull Request](https://github.com/Manish-0405/habitat-fragmentation/pulls)
 
 ---
 
