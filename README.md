@@ -194,8 +194,8 @@ jupyter notebook habitat_fragmentation_analysis.ipynb
 **Manish Kumar Choudhary**
 
 -  Email: manishkumarchoudhary122450@marwadiuniversity.ac.in
--  LinkedIn: [Your LinkedIn Profile]
--  GitHub: [Your GitHub Profile]
+-  LinkedIn: https://www.linkedin.com/in/manishkumar45/
+-  GitHub: https://github.com/Manish-0405/
 
 ---
 
@@ -216,8 +216,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions, suggestions, or collaboration opportunities:
-- Open an [Issue](https://github.com/yourusername/habitat-fragmentation/issues)
-- Submit a [Pull Request](https://github.com/yourusername/habitat-fragmentation/pulls)
+- Open an [Issue](https://github.com/Manish-045/habitat-fragmentation/issues)
+- Submit a [Pull Request](https://github.com/Manish-045/habitat-fragmentation/pulls)
 
 ---
 
