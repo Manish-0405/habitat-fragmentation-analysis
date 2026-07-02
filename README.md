@@ -193,7 +193,7 @@ jupyter notebook habitat_fragmentation_analysis.ipynb
 
 **Manish Kumar Choudhary**
 
--  Email: manishkumarchoudhary122450@marwadiuniversity.ac.in
+-  Email: manishkumar04.05.003@gmail.com
 -  LinkedIn: https://www.linkedin.com/in/manishkumar45/
 -  GitHub: https://github.com/Manish-0405/
 
